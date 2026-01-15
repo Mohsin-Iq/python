@@ -11,3 +11,5 @@ __main__()
 the add() function is noticeable 
 
 Verify the terms and conditions first before
+
+<img width="1097" height="616" alt="image" src="https://github.com/user-attachments/assets/a4835b41-bb4c-4d8d-8dd5-05928ea09d9f" />
