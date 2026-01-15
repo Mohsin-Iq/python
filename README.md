@@ -10,4 +10,4 @@ __main__()
 
 the add() function is noticable 
 
-Verify the terms and conditions first before
+Verify the terms and conditions first before run
